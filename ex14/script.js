@@ -1,5 +1,3 @@
-// Escreva uma função que usa 2 números e retorna o maior entre eles
-
 let valorMaior = max(10, 10);
 console.log(valorMaior);
 
